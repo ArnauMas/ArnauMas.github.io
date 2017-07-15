@@ -1,2 +1,3 @@
 name: Arnau Mas
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
